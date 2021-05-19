@@ -1,0 +1,15 @@
+@import url('./views/main-view.css');
+@import url('./views/hello-world-view.css');
+@import url('./views/about-view.css');
+@import url('./views/empty-view.css');
+@import url('./views/address-form-view.css');
+@import url('./views/map-view.css');
+@import url('leaflet/dist/leaflet.css');
+@import url('lumo-css-framework/all-classes.css');    html {
+      --lumo-size-xl: 3rem;
+      --lumo-size-l: 2.5rem;
+      --lumo-size-m: 2rem;
+      --lumo-size-s: 1.75rem;
+      --lumo-size-xs: 1.5rem;
+
+    }
